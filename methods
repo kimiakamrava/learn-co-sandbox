@@ -1,0 +1,5 @@
+def greeting(name="kimia")
+ puts "Hello, #{name}."
+ end
+ greeting("steven")
+ 

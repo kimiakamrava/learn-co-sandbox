@@ -1,0 +1,5 @@
+
+
+item = ["dopey", "sneezy", "happy", "angry", "doc", "lemonjello", "sleepy" ].each.with_index { |item,index| puts  " #{index}.*#{item}" if index > 0}
+
+

@@ -1,0 +1,7 @@
+array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
+array_2 = ["", 4, "", "goodbye",""]
+
+array_1.count do |string|
+  string.lentgh > 0
+end
+
